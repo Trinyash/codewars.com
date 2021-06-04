@@ -180,6 +180,14 @@ def file_template_based_by_language(language: Language) -> str:
                       '\n'
                       '// START HERE\n'
                       '\n',
+
+        Language.JavaScript: '/*\n'
+                             '* {text}\n'
+                             '*/\n'
+                             '\n'
+                             '// START HERE\n'
+                             '\n',
+
     }.get(language, not_implemented_language)
 
     return result if isinstance(result, str) else result()
