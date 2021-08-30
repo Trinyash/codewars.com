@@ -249,7 +249,7 @@ def main():
     assert 'url' in data, f'{data=}'
     url = data['url']
 
-    readme_data = readme_data[::-1]
+    readme_data = readme_data[:-1]
     readme_data.append(f'* ``{rank} kyu`` **{language_str2language_pretty_str[language_str]}** [{name}]({url})')
     readme_data.append('\n')
 
