@@ -12,4 +12,5 @@
 * ``8 kyu`` **JavaScript** [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 * ``8 kyu`` **JavaScript** [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
 * ``8 kyu`` **JavaScript** [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+* ``8 kyu`` **JavaScript** [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 
