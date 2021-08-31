@@ -18,4 +18,5 @@
 * ``7 kyu`` **JavaScript** [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 * ``7 kyu`` **JavaScript** [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 * ``7 kyu`` **JavaScript** [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
+* ``7 kyu`` **JavaScript** [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 
