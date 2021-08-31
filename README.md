@@ -15,4 +15,5 @@
 * ``8 kyu`` **JavaScript** [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 * ``8 kyu`` **JavaScript** [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
 * ``7 kyu`` **JavaScript** [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
+* ``7 kyu`` **JavaScript** [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 
