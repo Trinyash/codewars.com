@@ -21,4 +21,5 @@
 * ``7 kyu`` **JavaScript** [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 * ``7 kyu`` **JavaScript** [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 * ``7 kyu`` **JavaScript** [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053)
+* ``7 kyu`` **JavaScript** [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)
 
