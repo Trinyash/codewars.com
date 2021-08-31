@@ -22,4 +22,5 @@
 * ``7 kyu`` **JavaScript** [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 * ``7 kyu`` **JavaScript** [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 * ``7 kyu`` **JavaScript** [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)
+* ``7 kyu`` **JavaScript** [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 
