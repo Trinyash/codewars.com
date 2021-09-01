@@ -24,4 +24,5 @@
 * ``7 kyu`` **JavaScript** [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)
 * ``7 kyu`` **JavaScript** [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 * ``7 kyu`` **JavaScript** [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
+* ``6 kyu`` **JavaScript** [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 
