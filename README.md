@@ -33,4 +33,5 @@
 * ``6 kyu`` **JavaScript** [Persistent Bugger.](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 * ``6 kyu`` **JavaScript** [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
 * ``6 kyu`` **JavaScript** [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+* ``6 kyu`` **JavaScript** [Decode the Morse code ](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 
