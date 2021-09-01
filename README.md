@@ -35,4 +35,5 @@
 * ``6 kyu`` **JavaScript** [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 * ``6 kyu`` **JavaScript** [Decode the Morse code ](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 * ``5 kyu`` **JavaScript** [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
+* ``5 kyu`` **JavaScript** [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 
