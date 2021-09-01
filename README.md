@@ -37,4 +37,5 @@
 * ``5 kyu`` **JavaScript** [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
 * ``5 kyu`` **JavaScript** [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 * ``5 kyu`` **JavaScript** [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
+* ``5 kyu`` **JavaScript** [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 
