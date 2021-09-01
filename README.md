@@ -26,4 +26,5 @@
 * ``7 kyu`` **JavaScript** [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 * ``6 kyu`` **JavaScript** [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 * ``6 kyu`` **JavaScript** [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+* ``6 kyu`` **JavaScript** [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 
