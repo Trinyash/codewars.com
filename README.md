@@ -28,4 +28,5 @@
 * ``6 kyu`` **JavaScript** [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * ``6 kyu`` **JavaScript** [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 * ``6 kyu`` **JavaScript** [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+* ``6 kyu`` **JavaScript** [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 
