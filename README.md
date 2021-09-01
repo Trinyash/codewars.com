@@ -38,4 +38,5 @@
 * ``5 kyu`` **JavaScript** [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 * ``5 kyu`` **JavaScript** [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 * ``5 kyu`` **JavaScript** [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
+* ``5 kyu`` **JavaScript** [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
