@@ -30,4 +30,5 @@
 * ``6 kyu`` **JavaScript** [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 * ``6 kyu`` **JavaScript** [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 * ``6 kyu`` **JavaScript** [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+* ``6 kyu`` **JavaScript** [Persistent Bugger.](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 
