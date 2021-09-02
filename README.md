@@ -41,4 +41,5 @@
 * ``5 kyu`` **JavaScript** [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 * ``5 kyu`` **JavaScript** [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
 * ``5 kyu`` **JavaScript** [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc)
+* ``5 kyu`` **JavaScript** [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 
