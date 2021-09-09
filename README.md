@@ -49,4 +49,5 @@
 * ``6 kyu`` **JavaScript** [Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991)
 * ``7 kyu`` **JavaScript** [Head, Tail, Init and Last](https://www.codewars.com/kata/54592a5052756d5c5d0009c3)
 * ``6 kyu`` **JavaScript** [Array Deep Count](https://www.codewars.com/kata/596f72bbe7cd7296d1000029)
+* ``6 kyu`` **JavaScript** [Valid string](https://www.codewars.com/kata/52f3bb2095d6bfeac2002196)
 
