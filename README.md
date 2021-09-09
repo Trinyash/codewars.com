@@ -43,4 +43,5 @@
 * ``5 kyu`` **JavaScript** [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc)
 * ``5 kyu`` **JavaScript** [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 * ``7 kyu`` **JavaScript** [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
+* ``7 kyu`` **JavaScript** [Nickname Generator](https://www.codewars.com/kata/593b1909e68ff627c9000186)
 
