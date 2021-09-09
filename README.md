@@ -45,4 +45,5 @@
 * ``7 kyu`` **JavaScript** [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
 * ``7 kyu`` **JavaScript** [Nickname Generator](https://www.codewars.com/kata/593b1909e68ff627c9000186)
 * ``7 kyu`` **JavaScript** [Digits explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314)
+* ``6 kyu`` **JavaScript** [Handshake problem](https://www.codewars.com/kata/5574835e3e404a0bed00001b)
 
