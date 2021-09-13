@@ -50,4 +50,5 @@
 * ``7 kyu`` **JavaScript** [Head, Tail, Init and Last](https://www.codewars.com/kata/54592a5052756d5c5d0009c3)
 * ``6 kyu`` **JavaScript** [Array Deep Count](https://www.codewars.com/kata/596f72bbe7cd7296d1000029)
 * ``6 kyu`` **JavaScript** [Valid string](https://www.codewars.com/kata/52f3bb2095d6bfeac2002196)
+* ``7 kyu`` **JavaScript** [Unlucky Days](https://www.codewars.com/kata/56eb0be52caf798c630013c0)
 
