@@ -56,4 +56,5 @@
 * ``6 kyu`` **JavaScript** [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8)
 * ``6 kyu`` **JavaScript** [Sorting by bits](https://www.codewars.com/kata/59fa8e2646d8433ee200003f)
 * ``6 kyu`` **JavaScript** [Mutual Recursion](https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b)
+* ``5 kyu`` **JavaScript** [Fun with trees: array to tree](https://www.codewars.com/kata/57e5a6a67fbcc9ba900021cd)
 
