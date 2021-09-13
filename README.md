@@ -52,4 +52,5 @@
 * ``6 kyu`` **JavaScript** [Valid string](https://www.codewars.com/kata/52f3bb2095d6bfeac2002196)
 * ``7 kyu`` **JavaScript** [Unlucky Days](https://www.codewars.com/kata/56eb0be52caf798c630013c0)
 * ``7 kyu`` **JavaScript** [My Languages](https://www.codewars.com/kata/5b16490986b6d336c900007d)
+* ``7 kyu`` **JavaScript** [Convert a linked list to a string](https://www.codewars.com/kata/582c297e56373f0426000098)
 
