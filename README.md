@@ -54,4 +54,5 @@
 * ``7 kyu`` **JavaScript** [My Languages](https://www.codewars.com/kata/5b16490986b6d336c900007d)
 * ``7 kyu`` **JavaScript** [Convert a linked list to a string](https://www.codewars.com/kata/582c297e56373f0426000098)
 * ``6 kyu`` **JavaScript** [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8)
+* ``6 kyu`` **JavaScript** [Sorting by bits](https://www.codewars.com/kata/59fa8e2646d8433ee200003f)
 
