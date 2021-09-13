@@ -234,7 +234,7 @@ def main():
     assert 'slug' in data, f'{data=}'
     slug = data['slug']
 
-    path = pathlib.Path.cwd() / f'{language_str}' / (f'kyu_{rank}' if rank.isdigit() else 'beta')
+    path = pathlib.Path.cwd() / f'{language_str}' / (f'kyu_{rank}' if str(rank) != 'beta' else 'beta')
     path.mkdir(exist_ok=True, parents=True)
     file_ext = language2file_ext(language)
     filename = path / f'{slug}{file_ext}'
@@ -255,7 +255,7 @@ def main():
     readme_data = readme_data[:-1]
     readme_data.append(
         f'* ``{rank} kyu`` **{language_str2language_pretty_str[language_str]}** [{name}]({url})'
-        if rank.isdigit()
+        if str(rank) != 'beta'
         else f'* ``beta`` **{language_str2language_pretty_str[language_str]}** [{name}]({url})'
     )
     readme_data.append('\n')
