@@ -4,9 +4,8 @@
 import argparse
 import enum
 import pathlib
-from urllib.parse import urlparse
-
 import requests
+from urllib.parse import urlparse
 
 
 @enum.unique
@@ -225,13 +224,17 @@ def main():
 
     assert 'rank' in data, f'{data=}'
     assert 'id' in data['rank'], f'{data["rank"]=}'
-    assert isinstance(data['rank']['id'], int), f'{data["rank"]["id"]=} type of {type(data["rank"]["id"])}'
-    rank = abs(data['rank']['id'])
+    assert isinstance(data['rank']['id'], int) or data['rank']['id'] is None, (
+        f'{data["rank"]["id"]=} type of {type(data["rank"]["id"])}', f'{req.url=}')
+    if data['rank']['id'] is None:
+        rank = 'beta'
+    else:
+        rank = abs(data['rank']['id'])
 
     assert 'slug' in data, f'{data=}'
     slug = data['slug']
 
-    path = pathlib.Path.cwd() / f'{language_str}' / f'kyu_{rank}'
+    path = pathlib.Path.cwd() / f'{language_str}' / (f'kyu_{rank}' if rank.isdigit() else 'beta')
     path.mkdir(exist_ok=True, parents=True)
     file_ext = language2file_ext(language)
     filename = path / f'{slug}{file_ext}'
@@ -250,7 +253,11 @@ def main():
     url = data['url']
 
     readme_data = readme_data[:-1]
-    readme_data.append(f'* ``{rank} kyu`` **{language_str2language_pretty_str[language_str]}** [{name}]({url})')
+    readme_data.append(
+        f'* ``{rank} kyu`` **{language_str2language_pretty_str[language_str]}** [{name}]({url})'
+        if rank.isdigit()
+        else f'* ``beta`` **{language_str2language_pretty_str[language_str]}** [{name}]({url})'
+    )
     readme_data.append('\n')
 
     with open(file='README.md', mode='w', encoding='utf-8') as fh_out:
