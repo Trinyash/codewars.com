@@ -65,4 +65,5 @@
 * ``6 kyu`` **JavaScript** [Closures and Scopes](https://www.codewars.com/kata/526ec46d6f5e255e150002d1)
 * ``6 kyu`` **JavaScript** [Can you keep a secret?](https://www.codewars.com/kata/5351b35ebaeb67f9110012d2)
 * ``5 kyu`` **JavaScript** [Function Cache](https://www.codewars.com/kata/525481903700c1a1ff0000e1)
+* ``7 kyu`` **JavaScript** [The Coupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
 
