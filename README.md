@@ -62,4 +62,5 @@
 * ``7 kyu`` **JavaScript** [The wheat/rice and chessboard problem](https://www.codewars.com/kata/5b0d67c1cb35dfa10b0022c7)
 * ``6 kyu`` **JavaScript** [Function composition](https://www.codewars.com/kata/5655c60db4c2ce0c2e000026)
 * ``6 kyu`` **JavaScript** [Function Composition](https://www.codewars.com/kata/5421c6a2dda52688f6000af8)
+* ``6 kyu`` **JavaScript** [Closures and Scopes](https://www.codewars.com/kata/526ec46d6f5e255e150002d1)
 
