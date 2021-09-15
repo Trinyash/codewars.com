@@ -63,4 +63,5 @@
 * ``6 kyu`` **JavaScript** [Function composition](https://www.codewars.com/kata/5655c60db4c2ce0c2e000026)
 * ``6 kyu`` **JavaScript** [Function Composition](https://www.codewars.com/kata/5421c6a2dda52688f6000af8)
 * ``6 kyu`` **JavaScript** [Closures and Scopes](https://www.codewars.com/kata/526ec46d6f5e255e150002d1)
+* ``6 kyu`` **JavaScript** [Can you keep a secret?](https://www.codewars.com/kata/5351b35ebaeb67f9110012d2)
 
