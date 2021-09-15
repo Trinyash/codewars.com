@@ -58,4 +58,5 @@
 * ``6 kyu`` **JavaScript** [Mutual Recursion](https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b)
 * ``5 kyu`` **JavaScript** [Fun with trees: array to tree](https://www.codewars.com/kata/57e5a6a67fbcc9ba900021cd)
 * ``beta`` **JavaScript** [Uncurrying](https://www.codewars.com/kata/56032c3deea6ebca2900003c)
+* ``7 kyu`` **JavaScript** [Currying functions: multiply all elements in an array](https://www.codewars.com/kata/586909e4c66d18dd1800009b)
 
