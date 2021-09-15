@@ -59,4 +59,5 @@
 * ``5 kyu`` **JavaScript** [Fun with trees: array to tree](https://www.codewars.com/kata/57e5a6a67fbcc9ba900021cd)
 * ``beta`` **JavaScript** [Uncurrying](https://www.codewars.com/kata/56032c3deea6ebca2900003c)
 * ``7 kyu`` **JavaScript** [Currying functions: multiply all elements in an array](https://www.codewars.com/kata/586909e4c66d18dd1800009b)
+* ``7 kyu`` **JavaScript** [The wheat/rice and chessboard problem](https://www.codewars.com/kata/5b0d67c1cb35dfa10b0022c7)
 
