@@ -67,4 +67,5 @@
 * ``5 kyu`` **JavaScript** [Function Cache](https://www.codewars.com/kata/525481903700c1a1ff0000e1)
 * ``7 kyu`` **JavaScript** [The Coupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
 * ``6 kyu`` **JavaScript** [Urban Dictionary](https://www.codewars.com/kata/5631ac5139795b281d00007d)
+* ``6 kyu`` **JavaScript** [Run-length encoding](https://www.codewars.com/kata/546dba39fa8da224e8000467)
 
