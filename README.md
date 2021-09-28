@@ -71,4 +71,5 @@
 * ``4 kyu`` **JavaScript** [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 * ``8 kyu`` **JavaScript** [Regular Ball Super Ball](https://www.codewars.com/kata/53f0f358b9cb376eca001079)
 * ``7 kyu`` **JavaScript** [What a "Classy" Song](https://www.codewars.com/kata/6089c7992df556001253ba7d)
+* ``7 kyu`` **JavaScript** [Fun with ES6 Classes #2 - Animals and Inheritance](https://www.codewars.com/kata/56f935002e6c0d55fa000d92)
 
