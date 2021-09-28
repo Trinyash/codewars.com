@@ -69,4 +69,5 @@
 * ``6 kyu`` **JavaScript** [Urban Dictionary](https://www.codewars.com/kata/5631ac5139795b281d00007d)
 * ``6 kyu`` **JavaScript** [Run-length encoding](https://www.codewars.com/kata/546dba39fa8da224e8000467)
 * ``4 kyu`` **JavaScript** [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
+* ``8 kyu`` **JavaScript** [Regular Ball Super Ball](https://www.codewars.com/kata/53f0f358b9cb376eca001079)
 
