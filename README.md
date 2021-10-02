@@ -73,4 +73,5 @@
 * ``7 kyu`` **JavaScript** [What a "Classy" Song](https://www.codewars.com/kata/6089c7992df556001253ba7d)
 * ``7 kyu`` **JavaScript** [Fun with ES6 Classes #2 - Animals and Inheritance](https://www.codewars.com/kata/56f935002e6c0d55fa000d92)
 * ``6 kyu`` **JavaScript** [Image host filename generator](https://www.codewars.com/kata/586a933fc66d187b6e00031a)
+* ``4 kyu`` **JavaScript** [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 
